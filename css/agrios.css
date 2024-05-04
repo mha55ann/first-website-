@@ -1,0 +1,939 @@
+* {
+    padding:0px;
+    margin:0px;
+    font-family:"Manrope";
+    font-optical-sizing:auto;
+    font-weight:600;
+  }
+  .section img {
+    top:119.5px;
+    height:79px;
+    width:1917px;
+    position:absolute;
+    z-index:0;
+  }
+  .navbar {
+    height:59px;
+    width:900px;
+    position:absolute;
+    top:120px;
+    left:352.5px;
+    z-index:1;
+  }
+  .navbar a {
+    position:relative;
+    text-decoration:none;
+    padding-left:73px;
+    top:20px;
+    font-size:16px;
+    font-weight:600;
+    color:#878680;
+  }
+  .head {
+    position:absolute;
+    width:1300px;
+    height:115.5px;
+    top:4px;
+    left:360px;
+  }
+  .head img {
+    position:absolute;
+    width:170px;
+    height:51.5px;
+    top:32px;
+    left:15px;
+  }
+  .head div {
+    height:25px;
+    width:25px;
+    background-color:#bbb;
+    border-radius:50%;
+    display:inline-block;
+    text-align:center;
+    background-color:#F8F7F0;
+    margin-left:10px;
+    position:relative;
+  }
+  .social {
+    position:absolute;
+    top:50px;
+    left:300px;
+    display:inline;
+    line-height:25px;
+    width:195px;
+    height:70px;
+  }
+  .symbols {
+    position:absolute;
+    top:50px;
+    left:475px;
+    display:inline;
+    line-height:25px;
+    width:650px;
+    height:70px;
+  }
+  .symbols i {
+    height:25px;
+    width:25px;
+    top:0px;
+    display:inline-block;
+    margin-left:170px;
+    position:relative;
+  }
+  .bg img {
+    height:max-content;
+    top:173px;
+    position:absolute;
+    z-index:-1;
+  }
+  .imgtext {
+    position:absolute;
+    width:1170px;
+    height:810px;
+    top:95px;
+    left:375px;
+  }
+  .imgtext p {
+    position:relative;
+    height:30px;
+    top:252px;
+    color:white;
+    font-size:16px;
+    font-family:"Manrope";
+    font-optical-sizing:auto;
+    font-weight:600;
+  }
+  .imgtext h1 {
+    position:relative;
+    width:833px;
+    height:220px;
+    top:273px;
+    font-size:120px;
+    line-height:110px;
+    color:aliceblue;
+    font-family:"Covered By Your Grace","cursive";
+  }
+  .button {
+    position:relative;
+    width:196.31px;
+    height:58px;
+    top:397px;
+    padding:14px 49.65px 14px 50px;
+    border-radius:10px;
+    text-align:center;
+    vertical-align:middle;
+    background-color:#4BAF47;
+    line-height:58px;
+    color:#FFFFFF;
+  }
+  .features {
+    position:absolute;
+    width:1173px;
+    height:251px;
+    top:928.5px;
+    left:360.03px;
+  }
+  .features div {
+    position:relative;
+    width:352px;
+    height:251px;
+    background:white;
+    margin-left:47px;
+    display:inline-block;
+    border-radius:10px;
+    box-shadow:2px 2px 2px black;
+  }
+  .features div p {
+    position:relative;
+    top:20px;
+    font-family:"Covered By Your Grace","cursive";
+    font-size:24px;
+    font-weight:400;
+    line-height:24px;
+    text-align:center;
+    color:#EEC044;
+  }
+  .features div h2 {
+    font-family:"Manrope";
+    font-size:24px;
+    font-weight:800;
+    line-height:30px;
+    text-align:center;
+    position:relative;
+    top:48px;
+  }
+  .features div img {
+    position:relative;
+    width:90px;
+    height:90px;
+    top:60px;
+    left:139.98px;
+    border-radius:10px;
+    object-fit:cover;
+  }
+  .part2 {
+    position:absolute;
+    width:1200px;
+    height:641.19px;
+    top:1299.5px;
+    left:360px;
+  }
+  .imge img {
+    position:relative;
+    border:13px solid white;
+    border-radius:350px;
+    width:550px;
+    height:549.03px;
+  }
+  .int {
+    position:relative;
+    font-family:"Covered By Your Grace";
+    font-size:24px;
+    font-weight:400;
+    line-height:36px;
+    text-align:left;
+    z-index:3;
+    color:#EEC044;
+    top:-630px;
+    left:622px;
+    display:inline-block;
+  }
+  .text h1 {
+    position:absolute;
+    top:40px;
+    right:75px;
+    font-family:"Manrope";
+    font-size:48px;
+    font-weight:800;
+    line-height:57.6px;
+    text-align:left;
+  }
+  .text h2 {
+    font-family:"Manrope";
+    font-size:26px;
+    font-weight:800;
+    line-height:30px;
+    text-align:left;
+    position:absolute;
+    top:190px;
+    left:618px;
+    color:#4BAF47;
+    display:inline-block;
+  }
+  .parag {
+    color:#878680;
+    font-family:"Manrope";
+    font-size:16px;
+    font-weight:500;
+    line-height:30px;
+    text-align:left;
+    position:relative;
+    top:-330px;
+    left:475px;
+    display:inline-block;
+  }
+  .remain h1 {
+    font-family:"Manrope";
+    font-size:20px;
+    font-weight:800;
+    line-height:28px;
+    text-align:left;
+    position:relative;
+    top:-288px;
+    left:565px;
+    display:inline-block;
+    margin-left:145px;
+  }
+  .remain p {
+    display:inline-block;
+    position:relative;
+    top:-190px;
+    left:50px;
+    font-family:"Manrope";
+    font-size:16px;
+    font-weight:600;
+    line-height:30px;
+    text-align:left;
+  }
+  .button2 {
+    position:relative;
+    width:196.31px;
+    height:58px;
+    top:-140px;
+    left:626px;
+    padding:14px 49.65px 14px 50px;
+    border-radius:10px;
+    text-align:center;
+    vertical-align:middle;
+    background-color:#4BAF47;
+    line-height:58px;
+    color:#FFFFFF;
+  }
+  .Bg {
+    width:1920px;
+    height:406px;
+    top:2060.69px;
+    position:absolute;
+    background-color:#F8F7F0;
+  }
+  .Bg p {
+    height:36px;
+    top:113px;
+    font-family:"Covered By Your Grace";
+    font-size:24px;
+    font-weight:400;
+    line-height:36px;
+    text-align:center;
+    position:relative;
+    color:#EEC044;
+  }
+  .Bg h2 {
+    width:340.13px;
+    height:57.6px;
+    top:148.7px;
+    left:782.59px;
+    font-family:"Manrope";
+    font-size:48px;
+    font-weight:800;
+    line-height:57.6px;
+    text-align:center;
+    color:#1F1E17;
+    position:relative;
+  }
+  .pic {
+    position:relative;
+    width:1200px;
+    height:430px;
+    top:2317.28px;
+    left:360px;
+  }
+  .pic1 {
+    width:270px;
+    height:430px;
+    left:0px;
+    position:relative;
+    border-radius:10px;
+    object-fit:cover;
+  }
+  .pic2 {
+    width:270px;
+    height:430px;
+    left:25px;
+    position:relative;
+    border-radius:10px;
+    object-fit:cover;
+  }
+  .pic3 {
+    position:relative;
+    border-radius:10px;
+    object-fit:cover;
+    width:270px;
+    height:430px;
+    left:50px;
+  }
+  .pic4 {
+    position:relative;
+    border-radius:10px;
+    object-fit:cover;
+    width:270px;
+    height:430px;
+    left:75px;
+  }
+  .box1 {
+    width:220px;
+    height:128px;
+    top:2167.28px;
+    left:384px;
+    border-radius:10px;
+    position:relative;
+    font-family:"Manrope";
+    font-size:20px;
+    font-weight:800;
+    line-height:28px;
+    display:inline-block;
+    z-index:5;
+    background-color:#FFFFFF;
+    border:solid;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .box2 {
+    width:220px;
+    height:128px;
+    top:2035px;
+    left:684px;
+    border-radius:10px;
+    position:relative;
+    font-family:"Manrope";
+    font-size:20px;
+    font-weight:800;
+    line-height:28px;
+    z-index:5;
+    background-color:#FFFFFF;
+    border:solid;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .box3 {
+    width:220px;
+    height:128px;
+    top:1905px;
+    left:984px;
+    border-radius:10px;
+    position:relative;
+    font-family:"Manrope";
+    font-size:20px;
+    font-weight:800;
+    line-height:28px;
+    z-index:5;
+    background-color:#FFFFFF;
+    border:solid;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .box4 {
+    width:220px;
+    height:128px;
+    top:1776px;
+    left:1284px;
+    border-radius:10px;
+    position:relative;
+    font-family:"Manrope";
+    font-size:20px;
+    font-weight:800;
+    line-height:28px;
+    z-index:5;
+    background-color:#FFFFFF;
+    border:solid;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .part4 {
+    position:relative;
+    width:1170px;
+    height:184px;
+    top:1901px;
+    left:358px;
+    opacity:0px;
+    background-color:#4BAF47;
+    border-radius:10px;
+  }
+  .part4 div {
+    position:relative;
+    height:30px;
+    top:7px;
+    left:66.8px;
+    font-family:"Manrope";
+    font-size:18px;
+    font-weight:500;
+    line-height:30px;
+    text-align:center;
+    display:inline-block;
+    margin-left:140px;
+    color:#FFFFFF;
+  }
+  .part4text {
+    position:relative;
+    width:1200px;
+    height:37px;
+    top:78px;
+    left:-13px;
+    display:inline-block;
+  }
+  .text12 {
+    position:absolute;
+    width:486.69px;
+    height:336px;
+    left:360px;
+    font-family:"Manrope";
+    font-size:70px;
+    font-weight:800;
+    line-height:84px;
+    text-align:left;
+    position:relative;
+    color:white;
+    top:1127px;
+  }
+  .part5 {
+    position:relative;
+    height:400px;
+    top:60px
+  }
+  .part5 p {
+    height:36px;
+    top:1472px;
+    left:872.81px;
+    position:relative;
+    font-family:"Covered By Your Grace";
+    font-size:24px;
+    font-weight:400;
+    line-height:36px;
+    color:#EEC044;
+    display:inline-block;
+  }
+  .part5 h1 {
+    position:relative;
+    width:387.82px;
+    height:57.6px;
+    top:1486px;
+    left:766.27px;
+    font-family:"Manrope";
+    font-size:48px;
+    font-weight:800;
+    line-height:57.6px;
+    text-align:center;
+    color:#1F1E17;
+  }
+  .part5 img {
+    position:relative;
+    width:362.5px;
+    height:558.44px;
+    object-fit:cover;
+    border-radius:10px;
+    top:1554px;
+    left:219px;
+  }
+  .imgt {
+    position:relative;
+    width:1378px;
+    height:90px;
+    top:1432px;
+    left:219px;
+    z-index:0;
+  }
+  .imgt p {
+    position:relative;
+    top:0px;
+    left:0px;
+    font-family:"Manrope";
+    font-size:30px;
+    font-weight:800;
+    line-height:36px;
+    text-align:left;
+    color:white;
+    padding-left:210px;
+  }
+  .part6 {
+    width:1920px;
+    height:694.78px;
+    top:2009px;
+    position:relative;
+    background-color:#F8F7F0;
+  }
+  .texti {
+    width:369.98px;
+    position:relative;
+    height:694.78px;
+    top:100px;
+    left:390px;
+  }
+  .texti h2 {
+    font-family:"Covered By Your Grace";
+    font-size:24px;
+    font-weight:400;
+    line-height:36px;
+    text-align:left;
+    width:137.12px;
+    height:36px;
+    color:#EEC044;
+    top:0px;
+  }
+  .texti h1 {
+    position:relative;
+    width:323.78px;
+    height:172.8px;
+    font-family:"Manrope";
+    font-size:48px;
+    font-weight:800;
+    line-height:57.6px;
+    text-align:left;
+    top:40px;
+  }
+  .texti p {
+    position:relative;
+    width:329.25px;
+    height:120px;
+    top:238.78px;
+    font-family:"Manrope";
+    font-size:16px;
+    font-weight:500;
+    line-height:30px;
+    text-align:left;
+    color:#878680;
+    top:90px;
+  }
+  .feedback {
+    position:relative;
+    width:770px;
+    height:254px;
+    color:black;
+    top:-525px;
+    left:920px;
+    background-color:#FFFFFF;
+  }
+  .feedback p {
+    position:relative;
+    width:486.31px;
+    height:108px;
+    font-family:"Manrope";
+    font-size:18px;
+    font-weight:500;
+    line-height:36px;
+    text-align:left;
+    color:#878680;
+    top:20px;
+    left:50px;
+  }
+  .feedback h1 {
+    position:relative;
+    width:172.69px;
+    height:30px;
+    font-family:"Manrope";
+    font-size:24px;
+    font-weight:800;
+    line-height:30px;
+    text-align:left;
+    top:60px;
+    left:50px;
+  }
+  .feedback div {
+    position:relative;
+    top:-80px;
+    left:570px;
+    width:130px;
+    height:130px;
+    border-style:dashed;
+    border-radius:85px;
+    border-color:#EEC044;
+  }
+  .part7 {
+    width:1200px;
+    height:733.97px;
+    top:2125px;
+    margin:auto;
+    position:relative;
+  }
+  .part7 img {
+    position:relative;
+    width:699.98px;
+    height:733.97px;
+    object-fit:cover;
+  }
+  .p7text {
+    width:500px;
+    height:733.97px;
+    position:relative;
+    left:722px;
+    top:-740px;
+  }
+  .p7text h3 {
+    width:158.74px;
+    height:36px;
+    font-family:"Covered By Your Grace";
+    font-size:24px;
+    font-weight:400;
+    line-height:36px;
+    text-align:left;
+    color:#EEC044;
+  }
+  .p7text h1 {
+    width:458.38px;
+    height:115.2px;
+    top:9px;
+    position:relative;
+    font-family:"Manrope";
+    font-size:48px;
+    font-weight:800;
+    line-height:57.6px;
+    text-align:left;
+  }
+  .p7text p {
+    position:relative;
+    width:441.19px;
+    height:90px;
+    top:18px;
+    font-family:"Manrope";
+    font-size:16px;
+    font-weight:500;
+    line-height:30px;
+    text-align:left;
+    color:#878680;
+  }
+  .p7text h2 {
+    width:256.02px;
+    height:33.6px;
+    top:-44px;
+    margin-top:90px;
+    left:0px;
+    position:relative;
+    font-family:"Manrope";
+    font-size:24px;
+    font-weight:800;
+    line-height:33.6px;
+    text-align:left;
+  }
+  .p7text h4 {
+    width:349.99px;
+    height:60px;
+    top:-350px;
+    font-family:"Manrope";
+    font-size:16px;
+    font-weight:500;
+    line-height:30px;
+    text-align:left;
+    color:#878680;
+    margin-top:63px;
+    position:relative;
+  }
+  .part8 {
+    width:1179px;
+    height:513.97px;
+    top:2430px;
+    margin:auto;
+    position:relative;
+  }
+  .part8 p {
+    position:relative;
+    width:122.72px;
+    height:36px;
+    top:-135px;
+    margin:auto;
+    font-family:"Covered By Your Grace";
+    font-size:24px;
+    font-weight:400;
+    line-height:36px;
+    text-align:center;
+    color:#EEC044;
+  }
+  .part8 h1 {
+    position:relative;
+    width:364.48px;
+    height:57.6px;
+    top:-125px;
+    margin:auto;
+    font-family:"Manrope";
+    font-size:48px;
+    font-weight:800;
+    line-height:57.6px;
+    text-align:center;
+  }
+  .part8 img {
+    position:relative;
+    top:-94px;
+    width:369.98px;
+    height:513.98px;
+    margin-left:26px;
+    border-radius:10px;
+  }
+  .p8bg {
+    width:371px;
+    height:214px;
+    top:-305px;
+    position:relative;
+    background-color:#FFFFFF;
+    margin-left:25px;
+    display:inline-block;
+  }
+  .part8 h2 {
+    width:262.17px;
+    height:108px;
+    left:32.5px;
+    font-family:Manrope;
+    font-size:26px;
+    font-weight:800;
+    line-height:36px;
+    text-align:center;
+    position:relative;
+    display:inline-block;
+    top:-470px;
+    margin-left:140px;
+  }
+  .button8 {
+    width:134.77px;
+    height:40px;
+    background-color:#4BAF47;
+    border-radius:10px;
+    text-align:center;
+    vertical-align:middle;
+    position:relative;
+    top:-655px;
+    left:120px;
+    background-color:#4BAF47;
+    line-height:44px;
+    margin-left:260px;
+    display:inline-block;
+  }
+  .part9 {
+    width:1920px;
+    height:234.5px;
+    top:2600px;
+    position:relative;
+    background-color:#F8F7F0;
+  }
+  .part10 {
+    height:581px;
+    position:relative;
+    width:1920px;
+    top:2600px;
+    background-color:#24231D;
+  }
+  .p10a {
+    position:relative;
+    width:300px;
+    height:273px;
+    top:170px;
+    left:340px;
+  }
+  .p10a img {
+    width:170px;
+    height:51.5px;
+    position:relative;
+    top:0px;
+    left:0px;
+  }
+  .p10a p {
+    position:relative;
+    top:8px;
+    width:269.04px;
+    height:90px;
+    font-family:Manrope;
+    font-size:15px;
+    font-weight:500;
+    line-height:30px;
+    text-align:left;
+    color:#A5A49A;
+  }
+  .p10b {
+    position:relative;
+    width:200px;
+    height:273px;
+    top:-106px;
+    left:640px;
+  }
+  .p10b h1 {
+    width:73.2px;
+    height:36px;
+    position:relative;
+    font-family:"Manrope";
+    font-size:30px;
+    font-weight:700;
+    line-height:36px;
+    text-align:left;
+    color:#FFFFFF;
+    top:-5px;
+    left:0px;
+  }
+  .p10b p {
+    position:relative;
+    font-family:"Manrope";
+    font-size:15px;
+    font-weight:600;
+    line-height:30px;
+    text-align:left;
+    color:#A5A49A;
+    left:8px;
+    top:20px;
+  }
+  .p10c {
+    position:relative;
+    width:399.98px;
+    height:273px;
+    left:844px;
+    top:-383px;
+  }
+  .p10c h1 {
+    position:relative;
+    width:399.98px;
+    height:273px;
+    top:-9px;
+    left:0px;
+    color:white;
+  }
+  .p10c p {
+    width:219.98px;
+    height:84.8px;
+    position:relative;
+    top:-215px;
+    left:130px;
+    font-family:"Manrope";
+    font-size:16px;
+    font-weight:700;
+    line-height:26px;
+    text-align:left;
+    color:white;
+  }
+  .p10c h2 {
+    width:181.05px;
+    height:28.13px;
+    position:relative;
+    top:-2px;
+    left:127px;
+    color:#EEC044;
+    margin-top:-134px;
+  }
+  .p10d {
+    width:300px;
+    height:273px;
+    top:-656px;
+    left:1247px;
+    position:relative;
+  }
+  .p10d h1 {
+    position:relative;
+    width:80.32px;
+    height:36px;
+    font-family:"Manrope";
+    font-size:30px;
+    font-weight:700;
+    line-height:36px;
+    text-align:left;
+    color:#FFFFFF;
+    top:-8px;
+  }
+  .p10d p {
+    top:30px;
+    left:50px;
+    position:relative;
+    height:84.8px;
+    font-family:"Manrope";
+    font-size:16px;
+    font-weight:700;
+    line-height:26px;
+    text-align:left;
+    color:#A5A49A;
+  }
+  .part11 {
+    width:1920px;
+    height:70px;
+    top:2600px;
+    background-color:#1F1E17;
+    position:relative;
+    border:solid;
+    border-color:#EEC044;
+  }
+  .part11 p {
+    position:relative;
+    height:14px;
+    color:#A5A49A;
+    display:inline-block;
+    margin-left:578px;
+    vertical-align:middle;
+    line-height:58px;
+    left:-242px;
+  }
+  .icons i {
+    position:relative;
+    width:30px;
+    height:30px;
+    top:49px;
+    left:30px;
+  }
+  
